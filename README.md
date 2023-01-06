@@ -8,7 +8,7 @@ axios / concurrently / cors / express / nodemon / path
 * * *
 ### 컴포넌트 구조
 
-   index.html > index.js > App.js > Header   > Navi   
+   index.html > index.js > App.js > Header   > Navi 
    
                                   > Home   
 
@@ -17,6 +17,7 @@ axios / concurrently / cors / express / nodemon / path
                                   > Project   
                                   
                                   > Contact  > Form   
+
 * * *
 ### 사용 플러그인
   axios / react-bootstrap / swiper

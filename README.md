@@ -8,9 +8,13 @@ axios / concurrently / cors / express / nodemon / path
 * * *
 ### 컴포넌트 구조
    index.html > index.js > App.js > Header   > Navi   
+   
                                   > Home   
+
                                   > About    > Workswiper   
+                                  
                                   > Project   
+                                  
                                   > Contact  > Form   
 * * *
 ### 사용 플러그인

@@ -7,6 +7,7 @@ axios / concurrently / cors / express / nodemon / path
 ### 경로 : /react_portfolio
 * * *
 ### 컴포넌트 구조
+
    index.html > index.js > App.js > Header   > Navi   
    
                                   > Home   

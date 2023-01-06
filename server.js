@@ -8,7 +8,7 @@ const server = require('http').createServer(app);
 app.use(cors()); // cors 미들웨어를 삽입합니다.
 
 app.get('/', (req,res) => { // 요청패스에 대한 콜백함수를 넣어줍니다.
-  res.send({message:'hello'});
+  res.send("노드 서버 연결 성공 !!");
 });
 
 server.listen(8080, ()=>{

@@ -1,5 +1,5 @@
 import Scrollspy from "react-scrollspy";
-import naviDB from '../json/navidb.json';
+import naviDB from '../json/mydb.json';
 
 function Navi(){
     const naviDb = naviDB.naviDBjson
